@@ -131,11 +131,5 @@ legend, button::-moz-focus-inner, input::-moz-focus-inner {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
-.pinkBG {
-  background: deeppink; }
-
-.blueBG {
-  background: blue; }
-
-.greenBG {
-  background: green; }
+.emblem {
+  width: 40px; }
